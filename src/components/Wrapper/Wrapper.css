@@ -1,0 +1,11 @@
+.wrapper {
+  background: rgb(175, 175, 175);
+  background-image: url('https://cdn.thewire.in/wp-content/uploads/2018/04/19191238/nature-sky-night-star-milky-way-cosmos-1225110-pxhere.com_.jpg');
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
