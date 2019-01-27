@@ -1,13 +1,13 @@
 {
-  "main.css": "/bear.ly/static/css/main.605f0574.chunk.css",
-  "main.js": "/bear.ly/static/js/main.b8cd2f04.chunk.js",
-  "main.js.map": "/bear.ly/static/js/main.b8cd2f04.chunk.js.map",
-  "static/js/1.9c49b165.chunk.js": "/bear.ly/static/js/1.9c49b165.chunk.js",
-  "static/js/1.9c49b165.chunk.js.map": "/bear.ly/static/js/1.9c49b165.chunk.js.map",
-  "runtime~main.js": "/bear.ly/static/js/runtime~main.bc875285.js",
-  "runtime~main.js.map": "/bear.ly/static/js/runtime~main.bc875285.js.map",
-  "static/css/main.605f0574.chunk.css.map": "/bear.ly/static/css/main.605f0574.chunk.css.map",
-  "index.html": "/bear.ly/index.html",
-  "precache-manifest.8161016fa9c04801f9b4d68cc4e9bf93.js": "/bear.ly/precache-manifest.8161016fa9c04801f9b4d68cc4e9bf93.js",
-  "service-worker.js": "/bear.ly/service-worker.js"
+  "main.css": "/bearl.ly/static/css/main.605f0574.chunk.css",
+  "main.js": "/bearl.ly/static/js/main.b8cd2f04.chunk.js",
+  "main.js.map": "/bearl.ly/static/js/main.b8cd2f04.chunk.js.map",
+  "static/js/1.9c49b165.chunk.js": "/bearl.ly/static/js/1.9c49b165.chunk.js",
+  "static/js/1.9c49b165.chunk.js.map": "/bearl.ly/static/js/1.9c49b165.chunk.js.map",
+  "runtime~main.js": "/bearl.ly/static/js/runtime~main.a7903b81.js",
+  "runtime~main.js.map": "/bearl.ly/static/js/runtime~main.a7903b81.js.map",
+  "static/css/main.605f0574.chunk.css.map": "/bearl.ly/static/css/main.605f0574.chunk.css.map",
+  "index.html": "/bearl.ly/index.html",
+  "precache-manifest.014546944ee489b19b4660ed5becc5b5.js": "/bearl.ly/precache-manifest.014546944ee489b19b4660ed5becc5b5.js",
+  "service-worker.js": "/bearl.ly/service-worker.js"
 }
