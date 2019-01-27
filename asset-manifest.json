@@ -1,13 +1,13 @@
 {
-  "main.css": "/bearl.ly/static/css/main.5d8d3d7d.chunk.css",
-  "main.js": "/bearl.ly/static/js/main.9683d24c.chunk.js",
-  "main.js.map": "/bearl.ly/static/js/main.9683d24c.chunk.js.map",
-  "static/js/1.9c49b165.chunk.js": "/bearl.ly/static/js/1.9c49b165.chunk.js",
-  "static/js/1.9c49b165.chunk.js.map": "/bearl.ly/static/js/1.9c49b165.chunk.js.map",
-  "runtime~main.js": "/bearl.ly/static/js/runtime~main.a7903b81.js",
-  "runtime~main.js.map": "/bearl.ly/static/js/runtime~main.a7903b81.js.map",
-  "static/css/main.5d8d3d7d.chunk.css.map": "/bearl.ly/static/css/main.5d8d3d7d.chunk.css.map",
-  "index.html": "/bearl.ly/index.html",
-  "precache-manifest.8235104fd6f207546bbed2af916befc4.js": "/bearl.ly/precache-manifest.8235104fd6f207546bbed2af916befc4.js",
-  "service-worker.js": "/bearl.ly/service-worker.js"
+  "main.css": "/bearly/static/css/main.5d8d3d7d.chunk.css",
+  "main.js": "/bearly/static/js/main.9683d24c.chunk.js",
+  "main.js.map": "/bearly/static/js/main.9683d24c.chunk.js.map",
+  "static/js/1.9c49b165.chunk.js": "/bearly/static/js/1.9c49b165.chunk.js",
+  "static/js/1.9c49b165.chunk.js.map": "/bearly/static/js/1.9c49b165.chunk.js.map",
+  "runtime~main.js": "/bearly/static/js/runtime~main.597a5bd3.js",
+  "runtime~main.js.map": "/bearly/static/js/runtime~main.597a5bd3.js.map",
+  "static/css/main.5d8d3d7d.chunk.css.map": "/bearly/static/css/main.5d8d3d7d.chunk.css.map",
+  "index.html": "/bearly/index.html",
+  "precache-manifest.ad07072840be4799ee65a67160bcaca4.js": "/bearly/precache-manifest.ad07072840be4799ee65a67160bcaca4.js",
+  "service-worker.js": "/bearly/service-worker.js"
 }
